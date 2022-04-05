@@ -30,7 +30,7 @@
         "php": ">=7.1.0",
         "laravel/nova": "^4.0",
         "illuminate/support": "^7.0|^8.0",
-        "optimistdigital/nova-translations-loader": "dev-master"
+        "optimistdigital/nova-translations-loader": "dev-nova4update"
     },
     "autoload": {
         "psr-4": {
